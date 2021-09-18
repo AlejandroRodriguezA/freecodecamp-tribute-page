@@ -1,6 +1,6 @@
 # Paguina Tributo a Michael Jackson
 
-Paguina realizada para el curso responsive web design de www.freecodecamp.com, solo tiene los criterios evaluados y nada mas, se puede visualizar en:
+Paguina realizada para el curso responsive web design de www.freecodecamp.com, solo tiene los criterios evaluados y nada mas, se puede visualizar en:  https://alejandrorodrigueza.github.io/freecodecamp-tribute-page/
 
 ## Criterios de la evaluacion:
 
