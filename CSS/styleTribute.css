@@ -1,0 +1,89 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+}
+
+#main {
+max-width: 1000px;
+margin: 5vw;
+height: auto;
+background-color: white;
+
+
+}
+
+.cabecera {
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+#title {
+    text-align: center;
+    margin-bottom:0;
+    font-size: 5vw;
+
+
+}
+
+.cabecera h2 {
+    text-align: center;
+    margin-top: 0%;
+    font-size: 3.5vw;
+}
+
+#img-div {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: auto;
+    margin:auto;
+    
+    
+
+}
+
+#image {
+    border-radius: 0px;
+    /* Esta fue la que me falto  */
+    max-width: 100%;
+    width:100%;
+    height:auto;
+    /* justify-content: center; */
+    
+}
+
+#img-caption {
+    text-align: center;
+    margin-top: 7px;
+
+}
+
+.imag2{
+    display: float;
+    float: right;
+    width: 25vw;
+    max-width: 150px;
+    margin:0 50px 20px 20px;
+}
+
+#tribute-info h2 {
+    text-align: center;
+    font-size: 4.5vw;
+
+}
+ul { 
+    list-style-type: "♯  ";
+    margin: 20px;
+    
+ }
+
+ li {
+     margin: 30px;
+     font-size: 2vw;
+     text-align: justify;
+ }
+
